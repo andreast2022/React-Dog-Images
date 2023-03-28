@@ -13,7 +13,7 @@ const App = props => {
     }
 
     return <>
-    <h1>The World of Dogs</h1>
+    <h1>The Wonderful World of Dogs</h1>
     <DogImage chosenBreed={chosenBreed}/>
     <DogBreeds chosenBreed={chosenBreed} handleChooseBreed={handleChooseBreed}/>
     </>
